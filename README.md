@@ -10,16 +10,16 @@ Currently pursuing an **MA in Entertainment Industry Management (CSUN)** while t
 ---
 
 ### 🔭 Current Projects & Studies  
-- Developing a **horror-sci-fi backdoor pilot**  
-- Writing an **adult animation comedy pilot**  
+- Writing a **horror-sci-fi backdoor pilot**  
+- Developing an **adult animation comedy series**  
 - Graduate studies in **Entertainment Industry Management (CSUN)**  
 - Interdisciplinary art courses at the **University of Arizona**  
-- A **screenwriting workshop**  
 - A **Code to Sketch workshop**, using **JavaScript** to create visualizations of data & art  
 
 ---
 
 ### 📚 Industry & Community Involvement  
+- **Workshop Leader**, FabLab 25 — Created and led a 2-hour workshop on using open source AI products to develop a media project pitch. 
 - **Script Reader**, Austin Film Festival — evaluating and providing feedback on pilots, features, and digital series  
 - **Pitch Screener**, ATX TV Festival — assessing submissions for their pitch competition  
 - **Volunteer Coordinator Support**, Xerocraft Makerspace — assisted with scheduling, orientation, and member experience  
