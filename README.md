@@ -1,9 +1,9 @@
 ## Hi there   
 
-I’m **MJ Watz** — a filmmaker, writer, and media creator based in Tucson, Arizona.  
+I’m **MJ Watz** a filmmaker, writer, and media creator based in Tucson, Arizona.  
 I’m an alum of the **UCLA School of Theater, Film and Television**, where I earned my **BA in Film, Television, and Digital Media Production** with a concentration in **Cinematography** and a **Minor in Theater**.  
 
-I’ve directed **shorts, music videos, live theater, and one feature film — *Leash Leader*, now streaming on Amazon Prime, which I self-distributed.**  
+I’ve directed **shorts, music videos, live theater, and one feature film: *Leash Leader*, now streaming on Amazon Prime, which I self-distributed.**  
 
 Currently pursuing an **MA in Entertainment Industry Management (CSUN)** while taking **Interdisciplinary Studio Art classes at the University of Arizona** and exploring new tools/technologies at the **UArizona Catalyst Maker Space**.  
 
