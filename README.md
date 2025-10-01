@@ -1,6 +1,6 @@
-## Hi there 👋  
+## Hi there   
 
-🎬 I’m **MJ Watz** — a filmmaker, writer, and media creator based in Tucson, Arizona.  
+I’m **MJ Watz** — a filmmaker, writer, and media creator based in Tucson, Arizona.  
 I’m an alum of the **UCLA School of Theater, Film and Television**, where I earned my **BA in Film, Television, and Digital Media Production** with a concentration in **Cinematography** and a **Minor in Theater**.  
 
 I’ve directed **shorts, music videos, live theater, and one feature film — *Leash Leader*, now streaming on Amazon Prime, which I self-distributed.**  
@@ -9,7 +9,7 @@ Currently pursuing an **MA in Entertainment Industry Management (CSUN)** while t
 
 ---
 
-### 🔭 Current Projects & Studies  
+### Current Projects & Studies  
 - Writing a **horror-sci-fi backdoor pilot**  
 - Developing an **adult animation comedy series**  
 - Graduate studies in **Entertainment Industry Management (CSUN)**  
@@ -18,7 +18,7 @@ Currently pursuing an **MA in Entertainment Industry Management (CSUN)** while t
 
 ---
 
-### 📚 Industry & Community Involvement  
+### Industry & Community Involvement  
 - **Workshop Leader**, FabLab 25 — Created and led a 2-hour workshop on using open source AI products to develop a media project pitch. 
 - **Script Reader**, Austin Film Festival — evaluating and providing feedback on pilots, features, and digital series  
 - **Pitch Screener**, ATX TV Festival — assessing submissions for their pitch competition  
@@ -28,7 +28,7 @@ Currently pursuing an **MA in Entertainment Industry Management (CSUN)** while t
 
 ---
 
-### 💡 Interests & Goals  
+### Interests & Goals  
 - Building toward a career as a **showrunner** and **development executive**  
 - Exploring the intersection of **AI + storytelling**  
 - Gaining further experience in **animation** and **post-production** (Industrial Light & Magic = dream target ✨)  
@@ -36,9 +36,9 @@ Currently pursuing an **MA in Entertainment Industry Management (CSUN)** while t
 
 ---
 
-### 📫 Let’s Connect  
-- ✉️ [mjwatzmedia@gmail.com](mailto:mjwatzmedia@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mjwatz/)  
+### Let’s Connect  
+- [mjwatzmedia@gmail.com](mailto:mjwatzmedia@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/mjwatz/)  
 
 ---
-⭐️ *“Always excited to collaborate on film/media/AI projects, build better creative systems, and keep learning.”*
+*“Always excited to collaborate on film/media/AI projects, build better creative systems, and keep learning.”*
