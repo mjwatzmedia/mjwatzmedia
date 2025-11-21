@@ -14,7 +14,7 @@ Currently pursuing an **MA in Entertainment Industry Management (CSUN)** while t
 - Developing an **adult animation comedy series**  
 - Graduate studies in **Entertainment Industry Management (CSUN)**  
 - Interdisciplinary art courses at the **University of Arizona**  
-- A **Code to Sketch workshop**, using **JavaScript** to create visualizations of data & art  
+- A **Code to Sketch workshop**, using **p5.js/JavaScript** to create visualizations of data & art  
 
 ---
 
